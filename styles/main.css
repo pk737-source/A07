@@ -95,3 +95,9 @@ footer {
 .large {
 	font-size: 125%;
 }
+
+& h1 {
+	border: 2px solid var(--accent-color);
+	border-radius: 10px;
+	padding: .5em 1em;
+}
